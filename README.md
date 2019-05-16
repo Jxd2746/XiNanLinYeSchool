@@ -24,4 +24,5 @@
 public static void main(String [] args){}
 ``` 
 [![](https://img.shields.io/steam/size/100.svg)]
+![带logo社交样式](https://img.shields.io/badge/GitHub-10k+-yellow.svg?style=social&logo=github)
 
