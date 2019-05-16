@@ -19,5 +19,5 @@
 >>>>>满二叉树  
 
 [我的博客](http://blog.csdn.net/guodongxiaren "悬停显示")  
-![baidu](http://pic.rmb.bdstatic.com/6306988922e17d8b5ea488c00dd98e76.jpeg"百度logo") 
+![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")  
 
