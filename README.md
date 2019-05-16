@@ -1,5 +1,6 @@
 贾相东的GitHub
 ===  
+![baidu](http://pic13.nipic.com/20110415/7024774_084539360148_2.jpg "百度logo")  
 欢迎来到这个世界
 ---
 欢迎到访  
@@ -19,5 +20,5 @@
 >>>>>满二叉树  
 
 [我的博客](http://blog.csdn.net/guodongxiaren "悬停显示")  
-![baidu](http://pic.rmb.bdstatic.com/5730a50459e067b0d8d2e3def3e9e003.png "百度logo")  
+
 
