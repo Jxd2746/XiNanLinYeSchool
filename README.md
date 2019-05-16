@@ -1,6 +1,6 @@
 贾相东的图片
 ===  
-![baidu](http://pic13.nipic.com/20110415/7024774_084539360148_2.jpg "百度logo")  
+![baidu](http://img.duoziwang.com/2018/17/05232038713589.jpg "百度logo")  
 欢迎来到这个世界
 ---
 欢迎到访  
