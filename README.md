@@ -18,5 +18,4 @@
 >>>>平衡二叉树  
 >>>>>满二叉树  
 
-我的世界
 [我的博客](http://blog.csdn.net/guodongxiaren "悬停显示")  
